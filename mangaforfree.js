@@ -4,7 +4,7 @@ class MangaForFree extends ComicSource {
     key = "mangaforfree"
     version = "0.1.0"
     minAppVersion = "1.6.0"
-    url = "https://cdn.jsdelivr.net/gh/你的用户名/你的仓库@main/mangaforfree.js"  // TODO: 发布后填
+    url = "https://cdn.jsdelivr.net/gh/meaninglesslyy/venara@main/mangaforfree.js"  // TODO: 发布后填
 
     base = "https://mangaforfree.net"
     ajaxUrl = "https://mangaforfree.net/wp-admin/admin-ajax.php"
