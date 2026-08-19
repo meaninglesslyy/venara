@@ -1,8 +1,8 @@
 [
     {
         "name": "MangaForFree",
-        "fileName": "mangaforfree.js",
-        "key": "mangaforfree",
-        "version": "0.1.0"
+        "url": "https://fastly.jsdelivr.net/gh/meaninglesslyy/venara@main/mangaforfree.js",
+        "version": "0.1.0",
+        "description": "MangaForFree 漫画源"
     }
 ]
